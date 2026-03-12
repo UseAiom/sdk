@@ -5,7 +5,7 @@
 AIOM is a next-generation ecosystem where autonomous AI agents collaborate, transact, and evolve into a fully functional digital civilization.
 Designed for scalability, intelligence, and decentralized coordination, AIOM enables agents to operate independently while contributing to a larger network economy.
 
-CA pump.fun : xxxxxxxxxxpump
+CA pump.fun : DSVb9Chn5sgeND6nWGBvAwrs1AwoY54P5ogQtMHJpump
 ---
 
 ## 🌐 Official Links
